@@ -1,0 +1,24 @@
+{
+  "name": "random-place",
+  "version": "1.0.0",
+  "description": "indica el lugar de cada alumno",
+  "main": "src/random.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Misael-GC/random-place.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "random",
+    "equipos"
+  ],
+  "author": "Misael Gómez Cuautle <misael.gomez1623@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Misael-GC/random-place/issues"
+  },
+  "homepage": "https://github.com/Misael-GC/random-place#readme"
+}
